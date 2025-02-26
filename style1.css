@@ -1,0 +1,107 @@
+
+*{
+	margin : 0;
+	padding : 0;
+	box-sizing : border-box;
+    font-family: roboto;
+    
+}
+
+header{
+    background-color: orangered;    box-shadow: 2px 1px 6px black;
+    color: white;
+}
+
+header h1 {
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+}
+
+section{
+    width: 75%;
+    margin: auto;
+    padding: 25px;
+}
+
+/*section p {
+    border-left: 3px solid rgb(97, 97, 216);
+    padding-left: 15px;
+}*/
+
+.ia {
+    border-left: 3px solid orangered;
+    padding-left: 30px;
+    
+   
+}
+
+
+
+
+
+section h2, h3{
+    color: rgb(77, 71, 71);
+    padding: 15px;
+}
+
+#fonctions p{
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: orangered;
+    color: white;
+}
+
+
+
+
+/* img{
+    position: absolute;
+    left: 10px;
+    top: 50%;
+} */
+
+/* 
+body{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+
+header {
+    background-color: #458f49;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+p { 
+    width : 75%;
+    margin : auto;
+    padding: 15px;
+    line-height: 1.6;
+}
+header img{
+    width : 100px;
+    height : 75px;
+}
+h2,h3{
+    color: darkgreen;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color:#458f49;
+    color: white;
+}
+#conclu{
+    padding: 15px;
+
+}
+section{
+    padding: 15px;
+} */
